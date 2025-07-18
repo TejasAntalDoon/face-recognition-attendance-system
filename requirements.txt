@@ -12,5 +12,10 @@ numpy==1.24.3
 # GUI and image processing
 Pillow==10.0.0
 
+# Jupyter Notebook support
+jupyter==1.0.0
+notebook==7.0.6
+ipywidgets==8.1.1
+
 # Additional dependencies for face_recognition
 cmake>=3.18.0
