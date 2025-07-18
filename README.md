@@ -27,8 +27,8 @@ _Main interface showing live video feed and attendance log_
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/face-recognition-attendance.git
-   cd face-recognition-attendance
+   git clone https://github.com/yourusername/face-recognition-attendance-system.git
+   cd face-recognition-attendance-system
    ```
 
 2. **Install required packages**
