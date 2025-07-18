@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Tejasvi Singh Antal - tejas1379antal@gmail.com
 
-Project Link: [https://github.com/TejasAntalDoon/face-recognition-attendance-system](https://github.com/yourusername/face-recognition-attendance)
+Project Link: [https://github.com/TejasAntalDoon/face-recognition-attendance-system](https://github.com/TejasAntalDoon/face-recognition-attendance-system)
 
 ---
 
