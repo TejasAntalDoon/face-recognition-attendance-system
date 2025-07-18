@@ -120,7 +120,7 @@ face-recognition-attendance/
 
 ## Configuration Options
 
-You can modify these variables in `attendance_system.py`:
+You can modify these variables in `attendance_system.ipynb`:
 
 - `TIME_INTERVAL`: Minimum minutes between attendance marks (default: 1)
 - Face recognition tolerance: Adjust the threshold value (default: 0.5)
@@ -176,9 +176,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+Tejasvi Singh Antal - tejas1379antal@gmail.com
 
-Project Link: [https://github.com/yourusername/face-recognition-attendance](https://github.com/yourusername/face-recognition-attendance)
+Project Link: [https://github.com/TejasAntalDoon/face-recognition-attendance-system](https://github.com/yourusername/face-recognition-attendance)
 
 ---
 
