@@ -27,7 +27,7 @@ A real-time face recognition attendance system built with Python that automatica
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/face-recognition-attendance-system.git
+   git clone https://github.com/TejasAntalDoon/face-recognition-attendance-system.git
    cd face-recognition-attendance-system
    ```
 
